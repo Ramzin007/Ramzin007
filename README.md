@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammed Ramzin  
+💻 Frontend Developer | 🌱 Learning Full Stack | 🎯 2nd Year B.Tech IT @ CUSAT  
 
-<!--
-**Ramzin007/Ramzin007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 Currently working on: Smart Hostel Finder Project  
+- 🌱 Learning: Node.js, Express.js, and MongoDB  
+- 🎯 Goal: Become a Full Stack Developer  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+HTML | CSS | JavaScript | React | Node.js (learning)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [🎓 Student Portal (PHP + MySQL)](https://github.com/muhammedma-2006/StudentPortal)
+- [🧮 Responsive Counter](https://github.com/Ramzin007/Responsive-Counter)
+- [🎮 Simon Game](https://github.com/Ramzin007/Simon-Game)
+
+## 📈 GitHub Stats
+![Ramzin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramzin007&show_icons=true&theme=tokyonight)
+
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
