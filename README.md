@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Muhammed Ramzin  
-💻 Frontend Developer | 🌱 Learning Full Stack | 🎯 2nd Year B.Tech IT @ CUSAT  
+💻 Web Developer | 🌱 Learning Full Stack | 🎯 2nd Year B.Tech IT @ CUSAT  
 
 ## 🚀 About Me
 - 🔭 Currently working on: Smart Hostel Finder Project  
-- 🌱 Learning: Node.js, Express.js, and MongoDB  
 - 🎯 Goal: Become a Full Stack Developer  
 
 ## 🛠️ Tech Stack
-HTML | CSS | JavaScript | React | Node.js (learning)  
+HTML | CSS | JavaScript | React | Node.js | Express.js | EJS | MySQL | GIT  
 
 ## 📂 Featured Projects
 - [🎓 Student Portal (PHP + MySQL)](https://github.com/muhammedma-2006/StudentPortal)
