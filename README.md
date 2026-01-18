@@ -10,7 +10,7 @@ HTML | CSS | JavaScript | React | Node.js | Express.js | EJS | MySQL | GIT
 
 ## 📂 Featured Projects
 - [🎓 Student Portal (PHP + MySQL)](https://github.com/muhammedma-2006/StudentPortal)
-- [🧮 Responsive Counter](https://github.com/Ramzin007/Responsive-Counter)
+- [📄 Blog Page](https://blog-web-application-tazs.onrender.com/)
 - [🎮 Simon Game](https://github.com/Ramzin007/Simon-Game)
 
 ## 📈 GitHub Stats
