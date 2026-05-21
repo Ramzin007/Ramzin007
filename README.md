@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammed Ramzin P</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [BloodLink](https://github.com/Ramzin007/BloodLink)
+- 🔭 I’m currently working on [Movie Library](https://github.com/Ramzin007/BloodLink)
 
 - 🌱 I’m currently learning **API,MongoDB,...**
 
-- 👨‍💻 All of my projects are available at [notyet](notyet)
+- 👨‍💻 All of my projects are available at [my portfolio]([notyet](https://portfolio-beige-sigma-75.vercel.app/))
 
 - 📫 How to reach me **muhammedramzinp@gmail.com**
 
