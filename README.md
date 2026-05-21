@@ -5,13 +5,9 @@
 
 - 🌱 I’m currently learning **API,MongoDB,...**
 
-- 👨‍💻 All of my projects are available at [my portfolio]([notyet](https://portfolio-beige-sigma-75.vercel.app/))
+- 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-beige-sigma-75.vercel.app)
 
 - 📫 How to reach me **muhammedramzinp@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z4W0JaleuU68Hcv1pmT8Z1SEbon63iJ1/view?usp=sharing](https://drive.google.com/file/d/1Z4W0JaleuU68Hcv1pmT8Z1SEbon63iJ1/view?usp=sharing)
-
-- ⚡ Fun fact **I LEARN FROM MISTACK**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
